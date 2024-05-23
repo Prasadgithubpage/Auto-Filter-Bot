@@ -7,12 +7,11 @@ from pyrogram import (
     Client,
     __version__
 )
-
+TG_USER_SESSION = ("BQF3TIEAqUI8tHMPvkABoOCULrzSyTcLKGl13sEqa89wdQbAoCiU7a-ZsGtMLgAGku0z-y5B32eVqFewhsGfx3DH0jHiRJk9mAtzqz_2xGtvoeHScPf-HCJNPHHYHJSBgsVXCfwKY_YaSHkmCIV_9SDaCyNpXVbSR931yTKRUDtnASM9HKwNR_apMrBbejc209-MJS6IOwPmTt7oaAqhLxYl63ITvUmE3MrK1mJX4mjxOgKGGCi2XOi_DJjZV2pEGrwwhhyIpvxVfmYA11T8RQX59rLiNvYtHlZjEZ3MqBBGjTINwrFTJ8zVDJ-yGqEijGY6aEplOgl_S_A_ji4gab25uClwAAAAAAFE3SXbAA")
 from config import (
     API_HASH,
     APP_ID,
     LOGGER,
-    TG_BOT_SESSION,
     TG_BOT_TOKEN,
     TG_BOT_WORKERS
 )
